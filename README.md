@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my homepage! I am a Ph.D. student in Clinical Psychology at [University of Mississippi](https://olemiss.edu/), fortunate to be advised by [Prof. John Young](https://psychology.olemiss.edu/john-young/). Prior to that, I obtained my Master's degree in China, where I had the privilege of working with [Prof. Jiangang Chen](https://faculty.ecnu.edu.cn/_s15/cjg2_en/main.psp) and assisted Healthcare Ultrasound System research.
+Welcome to my homepage! I am a Ph.D. student in Clinical Psychology at [University of Mississippi](https://olemiss.edu/), fortunate to be advised by [Prof. John Young]( https://olemiss.edu/profiles/jnyoung1.php). Prior to that, I obtained my Master's degree in China, where I had the privilege of working with [Prof. Jiangang Chen](https://faculty.ecnu.edu.cn/_s15/cjg2_en/main.psp) and assisted Healthcare Ultrasound System research.
 
 ### 🔬 Research Interests
 
